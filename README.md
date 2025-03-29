@@ -67,4 +67,5 @@ The **Bi-LSTM** achieved the highest accuracy at 96%, slightly outperforming BER
 While **Bi-LSTM outperformed BERT in overall accuracy**, BERT remains competitive with strong precision across all classes. Random Forest and XGBoost struggled with minority class classification, making them less reliable choices for imbalanced datasets.
 
 Overall, **Bi-LSTM and BERT** are the top choices for URL classification, depending on whether a transformer-based or recurrent neural network model is preferred.
+### *Data url: https://www.kaggle.com/datasets/talhabarkaatahmad/dataset-malicious-urls**
 
